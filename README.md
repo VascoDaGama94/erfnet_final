@@ -14,5 +14,9 @@ Includes the necessary code to train the network
 ## predict.py
 Includes the necessary code to use a saved model to generate predictions
 
+## Results
+
+![alt text](https://github.com/VascoDaGama94/erfnet_final/blob/main/predictionOntestImages.png)
+
 
 
